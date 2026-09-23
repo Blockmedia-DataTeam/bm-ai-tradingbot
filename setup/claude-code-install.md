@@ -1,7 +1,7 @@
 # Claude Code 설치
 
-> 최종 확인일: (업로드 전 공식 문서 기준으로 확인하고 날짜 기입)
-> 공식 문서: https://docs.claude.com/en/docs/claude-code/overview
+> 최종 확인일: 2026-09-23
+> 공식 문서: https://code.claude.com/docs/en/setup
 
 설치 명령과 요금제는 바뀝니다. 영상 화면과 다르면 이 문서가 맞습니다. 이 문서와 공식 문서가 다르면 공식 문서가 맞습니다.
 
@@ -12,21 +12,27 @@
 ## 1. 터미널 열기
 
 - 맥: Spotlight에서 "터미널" 검색
-- 윈도우: (TODO: 확인. WSL 필요 여부와 PowerShell 지원 여부를 공식 문서에서 확인 후 기입)
+- 윈도우: 시작 메뉴에서 "PowerShell" 검색. WSL 없이 됩니다
 
 ## 2. 설치
 
+맥
 ```
-(TODO: 업로드 전 공식 문서의 현재 설치 명령을 그대로 붙임)
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+윈도우 PowerShell
+```
+irm https://claude.ai/install.ps1 | iex
 ```
 
 ## 3. 실행과 로그인
 
-봇이 살 폴더를 하나 만들고 그 안에서 실행합니다.
+봇 폴더를 만들고 그 안에서 실행합니다. 폴더 위치와 이름 규칙은 `prerequisites.md` 6절.
 
 ```
-mkdir my-tradingbot
-cd my-tradingbot
+mkdir ~/tradingbot
+cd ~/tradingbot
 claude
 ```
 
@@ -34,7 +40,7 @@ claude
 
 ## 4. 요금제
 
-(TODO: 업로드 시점 기준으로 anthropic.com 요금 페이지 확인 후 기입. 금액을 적을 경우 확인일과 함께)
+클로드 Pro 이상 구독 계정으로 로그인한다. 요금은 공식 요금 페이지에서 확인.
 
 Claude Code는 봇을 "만들 때" 쓰는 도구입니다. 봇이 24시간 돌면서 AI 판단을 받는 데 쓰는 Anthropic API는 별도이고 8화 전까지 필요 없습니다. `prerequisites.md` 3번 참고.
 
