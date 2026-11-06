@@ -1,4 +1,4 @@
-# 4화 논문 목록
+# 4화 논문 목록 샘플
 
 봇이 전략 후보의 근거로 쓸 논문입니다. 지시문은 이 목록 안의 논문만 근거로 쓰라고 봇에게 지시합니다. 직접 읽지 않으셔도 됩니다. 봇이 읽고 요약합니다. 1번만 빼고 무료로 볼 수 있는 판본이 있습니다. 링크는 학술 논문 공유 사이트 SSRN, 미국 경제연구소 NBER, 저자 소속 운용사 사이트로 연결됩니다. 1번은 출판사 링크만 있고 무료본은 없습니다.
 
@@ -42,7 +42,7 @@
 
 공개본: https://www.nber.org/papers/w22208 (2016년 작업 논문 판)
 
-## 6. 백테스트에 속지 않기 (5화에서 다룹니다)
+## 6. 백테스트에 속지 않기
 
 **Bailey, D. H. and López de Prado, M. (2014). The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting and Non-Normality.** Journal of Portfolio Management 40(5).
 
