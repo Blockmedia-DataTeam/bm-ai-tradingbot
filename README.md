@@ -7,8 +7,6 @@
 
 영상에서 제가 Claude Code에 실제로 넣은 지시문, 그 지시문으로 나온 결과물 예시, 따라 하다 막힐 때 볼 문서를 회차 순서대로 올립니다. 영상이 공개될 때 해당 회차 폴더가 추가됩니다.
 
-> 재생목록: https://youtube.com/playlist?list=PL_fJip42VOHZA6LIadCucNomyygs54B8V&si=C6wm7f13_phAlk2Z
-
 ## 이 레포에 있는 것과 없는 것
 
 있는 것
@@ -32,11 +30,11 @@
 
 | 회차 | 만드는 것 | 폴더 | 영상 |
 |---|---|---|---|
-| 1화 | 오리엔테이션. 준비물, 봇 구별법 4가지 | `setup/` | (링크) |
-| 2화 | AI 직원 온보딩 시키기 | `ep02/` | (링크) |
-| 3화 | 봇의 눈 만들기. 시세 수집기와 API 키 | `ep03/` | (링크) |
-| 4화 | 전략 세우기 | `ep04/` | (링크) |
-| 5화 | 백테스트, 봇을 시험대에 올리기 | `ep05/` | (링크) |
+| 1화 | 오리엔테이션. 준비물, 봇 구별법 4가지 | `setup/` | https://youtu.be/y7OqHTk9TpU?si=EKSL6y2kBKRZiuqy |
+| 2화 | AI 직원 온보딩 시키기 | `ep02/` | https://youtu.be/ppkFVscQW5A?si=lENaLRy7C_e3cjCe |
+| 3화 | 봇의 눈 만들기. 시세 수집기와 API 키 | `ep03/` | https://youtu.be/8KJgYDzlItY?si=iT4-pPz7l_8OHrV2 |
+| 4화 | 전략 세우기 | `ep04/` | https://youtu.be/yUqf_7X2dRw?si=KgizuXhylau2nwfD |
+| 5화 | 백테스트 | `ep05/` | (링크) |
 | 6화 | 리스크 엔진 | 공개 예정 | |
 | 7화 | 모의투자 + 텔레그램 알림 | 공개 예정 | |
 | 8화 | 뉴스 읽는 AI 참모 | 공개 예정 | |
