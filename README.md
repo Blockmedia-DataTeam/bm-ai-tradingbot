@@ -7,7 +7,7 @@
 
 영상에서 제가 Claude Code에 실제로 넣은 지시문, 그 지시문으로 나온 결과물 예시, 따라 하다 막힐 때 볼 문서를 회차 순서대로 올립니다. 영상이 공개될 때 해당 회차 폴더가 추가됩니다.
 
-> 재생목록: (링크)
+> 재생목록: https://youtube.com/playlist?list=PL_fJip42VOHZA6LIadCucNomyygs54B8V&si=C6wm7f13_phAlk2Z
 
 ## 이 레포에 있는 것과 없는 것
 
