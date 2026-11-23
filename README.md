@@ -32,7 +32,7 @@
 | 2화 | AI 직원 온보딩 시키기 | `ep02/` | https://youtu.be/ppkFVscQW5A?si=lENaLRy7C_e3cjCe |
 | 3화 | 봇의 눈 만들기. 시세 수집기와 API 키 | `ep03/` | https://youtu.be/8KJgYDzlItY?si=iT4-pPz7l_8OHrV2 |
 | 4화 | 전략 세우기 | `ep04/` | https://youtu.be/yUqf_7X2dRw?si=KgizuXhylau2nwfD |
-| 5화 | 백테스트 | `ep05/` | (링크) |
+| 5화 | 백테스트 | `ep05/` | https://youtu.be/h_ezrfIfwBI?si=p2yBf9DVYIywHiHS |
 | 6화 | 리스크 엔진 | 공개 예정 | |
 | 7화 | 모의투자 + 텔레그램 알림 | 공개 예정 | |
 | 8화 | 뉴스 읽는 AI 참모 | 공개 예정 | |
